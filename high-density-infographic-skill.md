@@ -16,7 +16,7 @@
 
 ### 环境变量
 ```
-NANOBANANA_API_KEY - NanoBanana API 密钥
+NANOBANANA_API_KEY - 你的 NanoBanana API 密钥
 ```
 
 ### API 获取
