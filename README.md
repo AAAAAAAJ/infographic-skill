@@ -1,5 +1,7 @@
 # 高密度信息大图生成专家 Skill
 
+[English Version](#english-version)
+
 > 9 种视觉风格 × NanoBanana API × 2K/4K 分辨率
 
 将复杂专业知识转化为**超高信息密度**的干货内容，支持**9 种视觉风格**切换。
@@ -24,42 +26,48 @@
 
 ## 📥 安装方式
 
-### 方式 1：Claude Code 直接加载
+### OpenClaw 安装（推荐）
 
-在 Claude Code 中输入：
+在 OpenClaw 中输入：
+```
+/install https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md
+```
+
+### Claude Code 安装
+
 ```
 /load https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md
 ```
 
-### 方式 2：下载后本地加载
+### 其他安装方式
 
-1. 下载文件：
-   ```bash
-   curl -L https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md -o high-density-infographic-skill.md
-   ```
+<details>
+<summary>点击展开更多安装方式</summary>
 
-2. 在 Claude Code 中加载：
-   ```
-   /load ./high-density-infographic-skill.md
-   ```
+#### 方式 1：下载后本地加载
+```bash
+curl -L https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md -o high-density-infographic-skill.md
+```
+然后在 Claude Code 中加载：
+```
+/load ./high-density-infographic-skill.md
+```
 
-### 方式 3：复制粘贴
-
+#### 方式 2：复制粘贴
 1. 打开 [high-density-infographic-skill.md](https://github.com/AAAAAAAJ/infographic-skill/blob/main/high-density-infographic-skill.md)
 2. 复制全部内容
 3. 在 Claude Code 中创建新技能并粘贴
+
+</details>
 
 ---
 
 ## ⚙️ 配置
 
 ### 1. 获取 API Key
-
 访问 [Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key) 获取 API Key
 
 ### 2. 设置环境变量
-
-在 Claude Code 设置中添加：
 ```
 NANOBANANA_API_KEY=你的 API 密钥
 ```
@@ -120,12 +128,126 @@ NANOBANANA_API_KEY=你的 API 密钥
 
 ---
 
-## 📄 许可证
+## 🔗 相关链接
 
-Template by: WaytoAGI
+- [GitHub 仓库](https://github.com/AAAAAAAJ/infographic-skill)
+- [Google AI API 文档](https://ai.google.dev/gemini-api/docs/api-key)
 
 ---
 
-**🔗 相关链接：**
-- [GitHub 仓库](https://github.com/AAAAAAAJ/infographic-skill)
-- [NanoBanana API 文档](https://ai.google.dev/gemini-api/docs/api-key)
+# English Version
+
+> 9 Visual Styles × NanoBanana API × 2K/4K Resolution
+
+Transform complex professional knowledge into **ultra-high information density** content with **9 visual styles**.
+
+---
+
+## 🎨 9 Visual Styles
+
+| # | Style | Best For |
+|---|-------|----------|
+| 1 | 🧪 Blueprint Pop Lab | Technical specs, professional reviews |
+| 2 | 📐 Retro Pop Grid | Checklists, comparison tables |
+| 3 | 📁 Archive Folder | System guides, categorized lists |
+| 4 | 🧾 Thermal Receipt | Step lists, timelines |
+| 5 | 📓 Vintage Scrapbook | Case studies, investigative analysis |
+| 6 | ✏️ Terracotta Doodle | Casual guides, friendly tutorials |
+| 7 | 💾 Acid Retro | Tech reviews, geek content |
+| 8 | 🎫 Theater Ticket | Story evolution, series guides |
+| 9 | 🖼️ Flat Vector | PPT covers, scenario illustrations |
+
+---
+
+## 📥 Installation
+
+### OpenClaw (Recommended)
+```
+/install https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md
+```
+
+### Claude Code
+```
+/load https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md
+```
+
+### Other Methods
+<details>
+<summary>Click to expand</summary>
+
+#### Download & Load Locally
+```bash
+curl -L https://raw.githubusercontent.com/AAAAAAAJ/infographic-skill/main/high-density-infographic-skill.md -o high-density-infographic-skill.md
+```
+Then load in Claude Code:
+```
+/load ./high-density-infographic-skill.md
+```
+
+#### Copy & Paste
+1. Open [high-density-infographic-skill.md](https://github.com/AAAAAAAJ/infographic-skill/blob/main/high-density-infographic-skill.md)
+2. Copy all content
+3. Create a new skill in Claude Code and paste
+
+</details>
+
+---
+
+## ⚙️ Configuration
+
+### 1. Get API Key
+Visit [Google AI Studio](https://ai.google.dev/gemini-api/docs/api-key) to get your API Key
+
+### 2. Set Environment Variable
+```
+NANOBANANA_API_KEY=your_api_key_here
+```
+
+---
+
+## 🚀 Usage Example
+
+**Input:**
+```
+Topic: Coffee Bean Selection Guide
+Description: Help beginners distinguish origin and roast levels, avoid pitfalls
+Quantity: 5 images
+Style: 2 (Retro Pop Grid)
+Resolution: 4K
+Aspect Ratio: 3:4 (default)
+```
+
+**Output:**
+1. AI generates content framework for 5 themes
+2. Reply "确认生图" (confirm generate)
+3. NanoBanana API generates 5 HD images (3:4 ratio)
+
+---
+
+## 📊 Resolution & Aspect Ratio
+
+**Resolution:**
+| Resolution | Size | Best For |
+|------------|------|----------|
+| 2K | 2048 × 2732 (3:4) | Social media, quick preview |
+| 4K | 4096 × 5464 (3:4) | Print, HD display, text details |
+
+**Aspect Ratio:**
+| Ratio | Best For |
+|-------|----------|
+| 3:4 | Xiaohongshu / Mobile portrait (default) |
+| 1:1 | WeChat Moments / Instagram |
+| 4:3 | PPT / Presentations |
+| 9:16 | Short video covers / Full screen |
+| 16:9 | Banners / Website headers |
+
+---
+
+## 🔗 Links
+
+- [GitHub Repository](https://github.com/AAAAAAAJ/infographic-skill)
+- [Google AI API Docs](https://ai.google.dev/gemini-api/docs/api-key)
+
+---
+
+**Template by:** WaytoAGI | **Version:** v4.0
