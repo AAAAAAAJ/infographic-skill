@@ -32,6 +32,25 @@
 
 **速记:** 1 蓝 2 格 3 文件 4 票据 5 手帐 6 涂鸦 7 酸 8 剧 9 矢量
 
+⏺ <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/7a1ea515-c3ac-4fba-acef-94c4d42d72ed" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/fa9806c9-839f-4aea-bd5b-186dd165a7a3" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/2a9971fd-eaf0-4260-b59e-fb4cbb735775" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/4e553826-19a8-4b73-9c8a-c21732d1ce1d" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/72b0967c-36e6-43cd-80fd-727b6aae855b" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/52196436-657f-4f29-bb9c-0a7ba6495226" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d6a41a94-d84e-4220-ac93-0826806755ef" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/9ae63c31-6536-4f1a-b1df-a116656590a2" width="200"/></td>
+      <td><img src="https://github.com/user-attachments/assets/f1436346-9e39-48a5-bbd8-ad488346fbc3" width="200"/></td>
+    </tr>
+  </table>
+
+
 ---
 
 ## 📊 分辨率 × 比例
