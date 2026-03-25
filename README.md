@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/AAAAAAAJ/infographic-skill)](https://github.com/AAAAAAAJ/infographic-skill/stargazers)
 
-> 10 种视觉风格 × NanoBanana API × 2K/4K 分辨率 × 5 种比例
+> 10 种视觉风格 × NanoBanana API × 2K/4K 分辨率 × 5 种比例（也可以自己定义比例）
+> Wan2.7 也适配，需要写完整需要呈现的文字 https://canary-create.wan.video/
 
 ---
 
